@@ -134,7 +134,7 @@ streamlit run LoanTap_model.py
 💡 Note:
 - To use this Streamlit app, download the trained models from the .ipynb notebook and place them in the same folder as LoanTap_model.py.
 - The app won’t run without these model files.
-
+---
 ```bash
 👨‍💻 Author
 Rutvik Mahadik

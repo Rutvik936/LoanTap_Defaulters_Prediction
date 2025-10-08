@@ -112,8 +112,7 @@ Store both files in the same folder as your LoanTap_model.py.
 📂 Project Folder Structure
 ```bash
  ┣ 📜 LoanTap_model.py
- ┣ 📜 rf_insurence.pkl
- ┣ 📜 xgb_insurence.pkl
+ ┣ 📜 LoanTap.pynb
  ┣ 📜 requirements.txt
  ┗ 📜 README.md
 ```
